@@ -1,4 +1,4 @@
-# YouTube Downloader
+# YouTube video and playlist downloader
 
 This Python script allows you to download YouTube videos and playlists in maximum quality by separately downloading video and audio for better quality. It also includes support for embedded subtitles.
 
